@@ -1,0 +1,30 @@
+{
+  "name": "india_industrial_inteligence",
+  "version": "1.0.0",
+  "description": "Industrial investment and project intelligence platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoutrikRaha/India_Industrial_Inteligence.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SoutrikRaha/India_Industrial_Inteligence/issues"
+  },
+  "homepage": "https://github.com/SoutrikRaha/India_Industrial_Inteligence#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "next": "^16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
